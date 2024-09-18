@@ -1,2 +1,11 @@
 ![light](https://raw.githubusercontent.com/KotezMorovez/KotezMorovez/master/profile-summary-card-output/nord_bright/0-profile-details.svg#gh-light-mode-only)
+![light](https://raw.githubusercontent.com/KotezMorovez/KotezMorovez/master/profile-summary-card-output/nord_bright/1-repos-per-language.svg#gh-light-mode-only)
+![light](https://raw.githubusercontent.com/KotezMorovez/KotezMorovez/master/profile-summary-card-output/nord_bright/2-most-commit-language.svg#gh-light-mode-only)
+![light](https://raw.githubusercontent.com/KotezMorovez/KotezMorovez/master/profile-summary-card-output/nord_bright/3-stats.svg#gh-light-mode-only)
+![light](https://raw.githubusercontent.com/KotezMorovez/KotezMorovez/master/profile-summary-card-output/nord_bright/4-productive-time.svg#gh-light-mode-only)
+
 ![dark](https://raw.githubusercontent.com/KotezMorovez/KotezMorovez/master/profile-summary-card-output/nord_dark/0-profile-details.svg#gh-dark-mode-only)
+![dark](https://raw.githubusercontent.com/KotezMorovez/KotezMorovez/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg#gh-dark-mode-only)
+![dark](https://raw.githubusercontent.com/KotezMorovez/KotezMorovez/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg#gh-dark-mode-only)
+![dark](https://raw.githubusercontent.com/KotezMorovez/KotezMorovez/master/profile-summary-card-output/nord_dark/3-stats.svg#gh-dark-mode-only)
+![dark](https://raw.githubusercontent.com/KotezMorovez/KotezMorovez/master/profile-summary-card-output/nord_dark/4-productive-time.svg#gh-dark-mode-only)
